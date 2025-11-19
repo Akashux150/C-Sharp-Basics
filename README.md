@@ -49,3 +49,21 @@ The program validates inputs and prints a structured summary of the registered m
 ---
 
 
+## 🖥️ Sample Expected Output
+
+=== Library Membership Registration ===
+
+Enter Full Name: XYZ
+Enter Age: 20
+Enter Email: XYZ@example.com
+Enter Membership Type (Gold/Silver/Basic): Gold
+
+--- Member Registration Successful ---
+
+Full Name : XYZ
+Age : 20
+Email : XYZ@example.com
+Membership : Gold
+
+Press any key to exit...
+
